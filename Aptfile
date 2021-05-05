@@ -1,5 +1,7 @@
 poppler-utils
 poppler-data
+tesseract-ocr
+tesseract-ocr-fra
 libpng-dev
 zlib1g-dev
 libxml2-dev
