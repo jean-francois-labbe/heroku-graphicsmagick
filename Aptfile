@@ -2,6 +2,7 @@ poppler-utils
 poppler-data
 tesseract-ocr
 tesseract-ocr-fra
+libarchive13
 libpng-dev
 zlib1g-dev
 libxml2-dev
