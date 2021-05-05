@@ -1,0 +1,8 @@
+poppler-utils
+poppler-data
+libpng-dev
+zlib1g-dev
+libxml2-dev
+libwmf-dev
+libwmf0.2-7
+graphicsmagick
