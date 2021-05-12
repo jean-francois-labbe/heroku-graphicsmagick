@@ -9,3 +9,5 @@ libxml2-dev
 libwmf-dev
 libwmf0.2-7
 graphicsmagick
+libvips
+libvips-tools
